@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: c73d8e88a0118b744bcc27f567e04a82
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: East_DeathForest_
+    100002: Landscape
+    100004: North_Overgrowth_
+    100006: Player
+    100008: //RootNode
+    100010: South_Mountains_
+    100012: West_Ravine_
+    100014: West_Ravine__1
+    400000: East_DeathForest_
+    400002: Landscape
+    400004: North_Overgrowth_
+    400006: Player
+    400008: //RootNode
+    400010: South_Mountains_
+    400012: West_Ravine_
+    400014: West_Ravine__1
+    2300000: East_DeathForest_
+    2300002: Landscape
+    2300004: North_Overgrowth_
+    2300006: Player
+    2300008: South_Mountains_
+    2300010: West_Ravine_
+    2300012: West_Ravine__1
+    3300000: East_DeathForest_
+    3300002: Landscape
+    3300004: North_Overgrowth_
+    3300006: Player
+    3300008: South_Mountains_
+    3300010: West_Ravine_
+    3300012: West_Ravine__1
+    4300000: West_Ravine__1
+    4300002: South_Mountains_
+    4300004: North_Overgrowth_
+    4300006: West_Ravine_
+    4300008: East_DeathForest_
+    4300010: Landscape
+    4300012: Player
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
